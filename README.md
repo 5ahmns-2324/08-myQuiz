@@ -1,6 +1,6 @@
 # 08-myQuiz
 
-# Was funktioniert
+# Funktionen
 Das Quiz hat fünf Fragen mit je drei Antwortmöglichkeiten, wobei die Fragen in einer zufälligen Reihenfolge gezeigt werden. Sobald eine Antwort geklickt wurde kann man einen Check-Button drücken, der einem die richtige Antwort grün, die beiden falschen Antworten rot markiert. Weiters wird mit dem Drücken des Check-Buttons der Weiter-Button freigeschaltet mit dem zur nächsten Frage gewechselt werden kann. 
 
 Auch wird ein entsprechender Sound abgespielt, um zu zeigen ob die Antwort richtig oder falsch. 
